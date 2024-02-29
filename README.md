@@ -30,6 +30,11 @@ Begrüße automatisch alle neuen Benutzer auf deinem Server und zeige ihnen den 
 - **Gehostet auf:** [Skyfire](https://skyfire.pyropixle.com)
 - **Sprache:** Deutsch
 
+## 🎟️ Support
+
+Solltest du Hilfe benötigen, erreichst du uns entweder per [E-Mail](mailto:support@pyropixle.com) oder auf unserem [Discord Server](https://link.pyropixle.com/discord).
+
+
 ## 🚀 Los geht's!
 
 Integriere Baxi in deinen Server und erlebe eine sichere, unterhaltsame und aktive Community! 
