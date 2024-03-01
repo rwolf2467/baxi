@@ -1,6 +1,7 @@
 # Projekt "Baxi" 🤖
 
 Willkommen bei Baxi, deinem ultimativen Discord-Bot mit einer Vielzahl von Features! 🚀
+Komplett grstis, ohne Features die nur für premium sind. 
 
 ## 🌐 Überblick
 
