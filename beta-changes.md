@@ -15,3 +15,6 @@ Legend:
 > `+` Added `/get-user-status` command added <br>
 > `~` Improved `/scan-server` command <br>
 > `+` Corrected and removed spelling errors and typos. <br>
+
+### 06.03.2024 :  : v4.0
+> `~` Improved `/report-user` command
