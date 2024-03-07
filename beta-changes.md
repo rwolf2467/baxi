@@ -16,5 +16,11 @@ Legend:
 > `~` Improved `/scan-server` command <br>
 > `+` Corrected and removed spelling errors and typos. <br>
 
-### 06.03.2024 :  : v4.0
+### 06.03.2024 : 23:50 : v4.0
 > `~` Improved `/report-user` command
+
+### 07.03.2024 : 1:20 : v4.0
+> `+` Added Chatfilter link <br>
+>   ![image](https://github.com/rwolf2467/baxi/assets/128227769/73b7f67b-9f96-466f-92a7-28afe92f51a4) ![image](https://github.com/rwolf2467/baxi/assets/128227769/449fba4c-aeea-42d7-9747-6d2178f43f30) <br>
+> `~` Fixed Globalchat Bug (The new server can't write in the global chat.)
+
