@@ -24,3 +24,8 @@ Legend:
 >   ![image](https://github.com/rwolf2467/baxi/assets/128227769/73b7f67b-9f96-466f-92a7-28afe92f51a4) ![image](https://github.com/rwolf2467/baxi/assets/128227769/449fba4c-aeea-42d7-9747-6d2178f43f30) <br>
 > `~` Fixed Globalchat Bug (The new server can't write in the global chat.)
 
+### 07.03.2024 : 21:45 : v4.0
+> `~` Improved Chatfilter <br>
+>   ![image](https://github.com/rwolf2467/baxi/assets/128227769/dea8697c-abe4-4e08-9d78-4530cf3006dc) <br>
+>   ![image](https://github.com/rwolf2467/baxi/assets/128227769/d120ff28-6df8-4cae-a123-90f83f19f796) <br>
+> `~` Added Globalchat commands (`/enable-globalchat` and `/disable-globalchat`)
