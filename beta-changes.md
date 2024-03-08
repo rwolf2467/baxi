@@ -29,3 +29,6 @@ Legend:
 >   ![image](https://github.com/rwolf2467/baxi/assets/128227769/dea8697c-abe4-4e08-9d78-4530cf3006dc) <br>
 >   ![image](https://github.com/rwolf2467/baxi/assets/128227769/d120ff28-6df8-4cae-a123-90f83f19f796) <br>
 > `~` Added Globalchat commands (`/enable-globalchat` and `/disable-globalchat`)
+
+### 08.03.2024 : 23:55 : v4.0
+> `~` Added enable / disable commands (Counting, Guessing, Chatfilter)
