@@ -50,3 +50,8 @@ Legend:
 > `+` Added WebServer for Baxi API (http://api.pyropixle.com:1657/baxi) <br> 
 > `~` Added / Improved enable / disable commands (Counting, Guesssing, Chatfilter, Verify, Welcome, Suggestions, Globalchat) <br> 
  
+<br> 
+
+### 10.03.2024 : 22:20 : v4.0
+> `~` Fixed Chatfilter Bug
+>   - Json decode Error
