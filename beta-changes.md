@@ -32,3 +32,9 @@ Legend:
 
 ### 08.03.2024 : 23:55 : v4.0
 > `~` Added enable / disable commands (Counting, Guessing, Chatfilter)
+
+### 10:03.2024 : 01:50 : v4.0
+> `~` Fixed Welcome System (Not responding to new Users)
+> `+` Added WebServer for Baxi API (http://api.pyropixle.com:1657/baxi)
+> `~` Added / Improved enable / disable commands (Counting, Guesssing, Chatfilter, Verify, Welcome, Suggestions, Globalchat)
+ 
