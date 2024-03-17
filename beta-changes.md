@@ -62,6 +62,7 @@ Legend:
 > `+` Added following commands:
 >   - `/ban <USER> <REASON>`
 >   - `/kick <USER> <REASON>`
->   - `/clear <AMOUNT>` <br>
+>   - `/clear <AMOUNT>`
+> 
 > `~` Added "Emergency" Mode <br>
 > `~` Improved "Missing Permissions" message
