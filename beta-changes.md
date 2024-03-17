@@ -55,3 +55,13 @@ Legend:
 ### 10.03.2024 : 22:20 : v4.0
 > `~` Fixed Chatfilter Bug
 >   - Json decode Error
+
+<br> 
+
+### 17.03.2024 : 22:35 : v4.0
+> `+` Added following commands:
+>   - `/ban <USER> <REASON>`
+>   - `/kick <USER> <REASON>`
+>   - `/clear <AMOUNT>`
+> `~` Added "Emergency" Mode
+> `~` Improved "Missing Permissions" message
