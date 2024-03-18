@@ -66,3 +66,8 @@ Legend:
 > 
 > `~` Added "Emergency" Mode <br>
 > `~` Improved "Missing Permissions" message
+
+<br> 
+
+### 18.03.2024 : 23:13 : v4.0
+> `~` Added improved Ticket System (⚠️⚠️ NEEDS TO BE TESTET ⚠️⚠️) 
