@@ -71,3 +71,8 @@ Legend:
 
 ### 18.03.2024 : 23:13 : v4.0
 > `~` Added improved Ticket System (⚠️⚠️ NEEDS TO BE TESTET ⚠️⚠️) 
+
+<br> 
+
+### 18.03.2024 : 23:40 : v4.0
+> `~` Fixed Major Bugs (Ticket System)
