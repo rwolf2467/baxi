@@ -76,3 +76,12 @@ Legend:
 
 ### 18.03.2024 : 23:40 : v4.0
 > `~` Fixed Major Bugs (Ticket System)
+
+<br> 
+
+### 19.03.2024 : 23:40 : v4.0
+> `~` Fixed Chatfilter Bug (https://github.com/rwolf2467/baxi/issues/2) <br>
+> `~` Improved `/bug-report` (Added Menu to choose between InApp Form or Github Issue Report) <br>
+> `+` Improved / Added new Claim Featre <br>
+> -   ![image](https://github.com/rwolf2467/baxi/assets/128227769/127b4f1c-0329-490f-ae72-30cadfc40907)
+ 
