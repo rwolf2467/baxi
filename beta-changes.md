@@ -85,3 +85,8 @@ Legend:
 > `+` Improved / Added new Claim Featre <br>
 > -   ![image](https://github.com/rwolf2467/baxi/assets/128227769/127b4f1c-0329-490f-ae72-30cadfc40907)
  
+<br> 
+
+### 20.03.2024 : 16:55 v4.0
+> `~` Added Anti-Ghostping
+>   - Automatically enabled with chatfilter
