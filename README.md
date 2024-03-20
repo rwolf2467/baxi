@@ -43,9 +43,7 @@ Mit folgendem Link kannst du Baxi einfach [EINLADEN](https://link.pyropixle.com/
 
 ## 📅 Geplante Features
 
-- **Find the Bug**: Ein Minispiel für Entwickler, bei dem es darum geht, Fehler in einem Code-Schnipsel zu finden.
 - **Redesign des Chatfilters**: Zugriff auf gelöschten Content über einen Website-Link.
 - **Anti-Ghost-Ping**: Verhindere unerwünschte Ghost-Pings in deinem Server.
-- **Baxi Chat Assistant**: Kommuniziere mit Baxi, als wäre er ein Mensch - z.B. "@baxi, lösche diesen Kanal."
 
 Baxi rüstet sich, um noch aufregendere Features für deinen Discord-Server zu bringen! Bleib dran für Updates! 🌟
