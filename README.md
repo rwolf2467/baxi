@@ -1,3 +1,5 @@
+![image](https://status.pyropixle.com/api/badge/9/status) - ![image](https://status.pyropixle.com/api/badge/9/uptime)
+
 # Projekt "Baxi" 🤖
 
 Willkommen bei Baxi, deinem ultimativen Discord-Bot mit einer Vielzahl von Features! 🚀
@@ -25,7 +27,7 @@ Begrüße automatisch alle neuen Benutzer auf deinem Server und zeige ihnen den 
 
 ## ℹ️ Über
 
-- **Python Version:** 3.11
+- **Python Version:** 3.11.8
 - **Packet:** Discord.py
 - **Entwickler:** [Red_Wolf2467](https://github.com/rwolf2467)
 - **Gehostet auf:** [Skyfire](https://skyfire.pyropixle.com)
@@ -43,7 +45,6 @@ Mit folgendem Link kannst du Baxi einfach [EINLADEN](https://link.pyropixle.com/
 
 ## 📅 Geplante Features
 
-- **Redesign des Chatfilters**: Zugriff auf gelöschten Content über einen Website-Link.
-- **Anti-Ghost-Ping**: Verhindere unerwünschte Ghost-Pings in deinem Server.
+- **Nichts**: Aktuell gibt es keine Fix geplanten Features.
 
 Baxi rüstet sich, um noch aufregendere Features für deinen Discord-Server zu bringen! Bleib dran für Updates! 🌟
