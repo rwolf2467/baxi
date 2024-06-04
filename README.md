@@ -8,6 +8,9 @@ Komplett grstis, ohne Features die nur für premium sind.
 ## 🌐 Überblick
 
 Baxi setzt den Schwerpunkt auf Sicherheit und soziale Interaktion, um deinen Discord-Server optimal zu schützen und aktiv zu halten.
+Stats (5.Juni 2024):
+- Server: 185
+- Benutzer: 81265
 
 ## 🔒 Sicherheit geht vor!
 
